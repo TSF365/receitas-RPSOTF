@@ -18,7 +18,7 @@
 - adiciona receita de Omelete de Queijo
 
 ## Issues Criadas
-Liste as issues criadas e quem ficou responsável por cada uma.
+Criada uma issue para conversão dos ficheiros em docs para html
 
 ## Pull Requests
 - Após a conclusão do código em cada branch de receita, era solicitado a um colega do grupo que fizesse a verificação do trabalho.
